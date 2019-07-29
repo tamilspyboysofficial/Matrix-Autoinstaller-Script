@@ -20,6 +20,6 @@ Now you can run TSB
 ``` bash
 Python cmatrix.py
 ```
-![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Find-Public-IP/master/img/1.png?raw=true " Step 1")
+![Alt text](https://raw.githubusercontent.com/jinu03/Matrix-Autoinstaller-Script/master/Screenshot%20from%202019-07-29%2022-00-18.png?raw=true " Step 1")
 	 
 
