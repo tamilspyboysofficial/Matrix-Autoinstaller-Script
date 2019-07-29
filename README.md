@@ -16,7 +16,7 @@ Your URL has to be given above.
 ``` bash
 cd Matrix-Autoinstaller-Script
 ```
-Now you can run TSB
+Now you can run Matrix
 ``` bash
 Python cmatrix.py
 ```
